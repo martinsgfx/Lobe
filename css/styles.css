@@ -90,6 +90,10 @@ a {
     margin-right: auto;
   }
 
+  .video:hover {
+    width: 72%;
+  }
+
 
   h1 {
     margin-top: 60px;
